@@ -1,4 +1,4 @@
-# Product API - Backend
+ # Product API - Backend
 
 This is a simple Express-based backend server that provides a list of products as a REST API. This server is designed to support frontend apps (like React) to display product listings.
 
@@ -44,10 +44,10 @@ Returns a list of products in JSON format.
   ...
 ]
 ```
-### 🌐 CORS Enabled
+### CORS Enabled
 
 CORS is enabled using the cors package to allow access from frontend applications running on other origins (like React dev server).
 
-### 🛠 Built With
+### Built With
 Express – Fast, minimalist web framework for Node.js
 CORS – Middleware to handle Cross-Origin Resource Sharing
