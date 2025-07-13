@@ -2,15 +2,6 @@
 
 This is a simple Express-based backend server that provides a list of products as a REST API. This server is designed to support frontend apps (like React) to display product listings.
 
-## 📁 Project Structure
-
-project/
-│
-├── index.js # Main Express server file
-├── package.json # Project dependencies and scripts
-
-## 🚀 Getting Started
-
 ### 1. Install Node.js
 
 Make sure Node.js and npm are installed on your system.
